@@ -44,3 +44,9 @@ main .section-stats{
      background-size: cover;
      
  }
+ main .sesection-sta{
+    background-color: rgb(255, 255, 255); /*background-image: url(../img/Frame\ 2.png);*/
+     background-repeat: no-repeat;
+     height: 800px;
+     background-size: cover;
+ }
