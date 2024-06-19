@@ -672,6 +672,211 @@ footer .footerslova {
         right: 56px;
         flex-direction: column;
     }
+    .container .title h1 {
+        font-size: 80px;
+        display: flex;
+        position: relative;
+        top: 229px;
+        letter-spacing: -5px;
+        width: 967px;
+        right: 210px;
+    }
+    .container .title h2 {
+        font-size: 36px;
+        display: flex;
+        position: relative;
+        top: 173px;
+        letter-spacing: 27px;
+        right: 210px;
+        color: rgba(81, 94, 102, 1);
+        width: 1000px;
+    }
+    header .title a {
+        color: rgba(37, 50, 56, 1);
+        text-decoration: none;
+        user-select: none;
+        background: rgba(249, 206, 249, 1);
+        padding: 0.9em 5.5em;
+        outline: none;
+        position: absolute;
+        left: 150px;
+        bottom: 53px;
+        font-size: 18px;
+        letter-spacing: 7px;
+        display: flex;
+        justify-content: space-around;
+    }
+    .podrobnosti {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: baseline;
+        position: relative;
+        right: -36px;
+        top: -15px;
+    }
+    .iconik {
+        display: flex;
+        position: relative;
+        bottom: 256px;
+        left: -600px;
+        width: 25px;
+        height: 25px;
+        top: -194px;
+    }
+    .iconik-1 {
+        display: flex;
+        position: relative;
+        bottom: 228px;
+        left: -466px;
+        width: 25px;
+        height: 25px;
+        top: -220px;
+    }
+    .iconik-2 {
+        display: flex;
+        position: relative;
+        bottom: 152px;
+        left: -465px;
+        width: 25px;
+        height: 25px;
+        top: -195px;
+    }
+    .abotput {
+        display: flex;
+        width: 261px;
+        bottom: 145px;
+        position: relative;
+        right: -35px;
+    }
+    .abotput-2 {
+        display: flex;
+        width: 355px;
+        bottom: 429px;
+        position: relative;
+        right: -264px;
+    }
+    .abotput-3 {
+        display: flex;
+        width: 261px;
+        bottom: 720px;
+        position: relative;
+        left: 427px;
+    }
+    .instruments {
+        display: flex;
+        justify-content: flex-end;
+        position: relative;
+        right: 493px;
+        bottom: -475px;
+    }
+    .arsenal {
+        font-weight: bold;
+        font-size: 26px;
+        position: relative;
+        bottom: -168px;
+        right: 272%;
+        width: 393%;
+    }
+    .icons-5 {
+        display: flex;
+        font-size: 19px;
+        position: relative;
+        right: -46px;
+        width: 176px;
+        top: -85px;
+    }
+    .icons-7 {
+        display: flex;
+        font-size: 19px;
+        position: relative;
+        width: 176px;
+        right: -47px;
+        top: -230px;
+    }
+    .point img {
+        width: 2889%;
+        padding: 9px;
+        position: relative;
+        bottom: 75px;
+        top: 259px;
+        right: 313px;
+    }
+    .portfolioo h2 {
+        width: 227%;
+        font-size: 28px;
+        position: relative;
+        top: -17px;
+    }
+    .sovo {
+        display: flex;
+        gap: 15px;
+        position: relative;
+        right: 41px;
+        top: 757px;
+    }
+    
+    .icons-6 {
+    display: flex;
+    font-size: 19px;
+    position: relative;
+    right: -49px;
+    width: 194px;
+    top: -100px;
+}
+    .iconik-3 {
+        display: flex;
+        position: relative;
+        bottom: 226px;
+        left: -599px;
+        width: 25px;
+        height: 25px;
+        top: -223px;
+    }
+    .opisanieschool {
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        top: -18px;
+        width: 272px;
+        font-size: 16px;
+    }
+    .obratnsvazzzz {
+        display: flex;
+        width: 720px;
+        justify-content: center;
+        position: relative;
+        top: -51px;
+        right: 145px;
+    }
+    .formmm {
+        background-color: #fff;
+        padding: 30px;
+        border-radius: 5px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        width: 401px;
+        display: flex;
+        position: relative;
+        right: 126%;
+        bottom: -186px;
+        height: 500px;
+    }
+    footer .footerslova {
+        background-image: url(../img/Group\ 30.png);
+        background-repeat: no-repeat;
+        height: 100px;
+        background-size: cover;
+        width: 720px;
+    }
+    .footerslovap {
+        display: flex;
+        justify-content: space-around;
+        padding: 29px;
+        font-size: 8px;
+        width: 720px;
+        letter-spacing: 2px;
+        gap: 38px;
+    }
 }
 @media (max-width: 768px) {
     .container{
