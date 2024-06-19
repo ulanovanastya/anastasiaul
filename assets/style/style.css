@@ -37,3 +37,10 @@ main .section-stats{
      background-size: cover;
      
  }
+ main .section-stas{
+    background-image: url(../img/Group\ 28.png);
+     background-repeat: no-repeat;
+     height: 800px;
+     background-size: cover;
+     
+ }
