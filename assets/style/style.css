@@ -436,3 +436,26 @@ button[type="submit"]:hover {
 form {
     width: 350px;
 }
+.footerslova {
+    background-image: url(../img/Group\ 30.png);
+    background-repeat: no-repeat;
+    height: 100px;
+    background-size: cover;
+    width: 1200px;
+}
+.footerslovap {
+    display: flex;
+    justify-content: space-around;
+    padding: 43px;
+    font-size: 13px;
+    width: 1200px;
+    letter-spacing: 2px;
+}
+.footerslova .container{
+    height: 100px;
+    width: 1200px;
+    margin: 0 auto;
+   
+    display: flex;
+    padding: 1px;
+}
