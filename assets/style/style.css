@@ -104,7 +104,7 @@ header .title a {
     outline: none;
     position: absolute;
     left: 70px;
-    bottom: 178px;
+    bottom: 53px;
     font-size: 18px;
     letter-spacing: 7px;
 }
@@ -368,4 +368,71 @@ header .title a {
 .portfolioo h2 {
     width: 227%;
     font-size: 34px;
+}
+.obratnsvazzzz {
+    display: flex;
+    width: 1200px;
+    justify-content: center;
+    position: relative;
+    top: -51px;
+}
+
+.formmm {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    width: 401px;
+    display: flex;
+    position: relative;
+    right: 46%;
+    bottom: -186px;
+    height: 500px;
+}
+
+h2 {
+    margin-bottom: 20px;
+    color: #333;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: #555;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="number"]
+ {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+}
+
+textarea {
+    resize: vertical;
+}
+
+button[type="submit"] {
+    background-color: rgba(248, 212, 248, 1);
+    color: rgba(37, 50, 56, 1);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    position: relative;
+    right: -19%;
+    top: 21px;
+}
+
+button[type="submit"]:hover {
+    background-color: #9c9c9c;
+}
+form {
+    width: 350px;
 }
