@@ -223,3 +223,79 @@ header .title a {
     position: relative;
     left: 800px;
 }
+.icons-5 {
+    display: flex;
+    font-size: 19px;
+    position: relative;
+    right: -49px;
+    width: 176px;
+}
+.icons-6 {
+    display: flex;
+    font-size: 19px;
+    position: relative;
+    right: -49px;
+    width: 176px;
+}
+.icons-7 {
+    display: flex;
+    font-size: 19px;
+    position: relative;
+    width: 176px;
+    right: -49px;
+}
+.arseic {
+    margin-top: 102px;
+    display: flex;
+    gap: 35px;
+    flex-direction: column;
+    right: 465px;
+    position: relative;
+    top: 263px;
+}
+.photoislovoo {
+    font-size: 22px;
+    position: relative;
+    top: -6px;
+    display: flex;
+    right: -10px;
+}
+.photoiconkaa img {
+    width: 18px;
+}
+.arsenal {
+    font-weight: bold;
+    font-size: 26px;
+    position: relative;
+    bottom: -202px;
+    right: 99%;
+    width: 205%;
+}
+.instruments {
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    right: 10px;
+    bottom: -237px;
+}
+.zagolovoook {
+    font-weight: bold;
+    font-size: 30px;
+    position: relative;
+    top: -89px;
+    right: -169px;
+}
+.instrumentsoo {
+    width: 276px;
+    position: relative;
+    font-size: 25px;
+    top: -4px;
+    right: -13px;
+}
+.ikonkiinstrumentov {
+    width: 58px;
+}
+.ikonkiinstrumentov img {
+    width: 49px;
+    height: 51px;
+}
