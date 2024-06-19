@@ -104,7 +104,94 @@ header .title a {
     outline: none;
     position: absolute;
     left: 70px;
-    bottom: -5px;
+    bottom: 178px;
     font-size: 18px;
     letter-spacing: 7px;
+}
+.zagolovok {
+    color: rgba(37, 50, 56, 1);
+    font-size: 32px;
+    margin-top: 43px;
+    position: relative;
+    right: -4%;
+    width: 1000px;
+}
+.iconik {
+    display: flex;
+    position: relative;
+    bottom: 256px;
+    left: 42px;
+    width: 25px;
+    height: 25px;
+}
+.iconik p {
+    position: relative;
+    bottom: 8px;
+}
+.iconik-1 p {
+    position: relative;
+    bottom: 8px;
+}
+
+.iconik-2 p {
+    position: relative;
+    bottom: 8px;
+}
+.iconik-2 {
+    display: flex;
+    position: relative;
+    bottom: 152px;
+    left: 42px;
+    width: 25px;
+    height: 25px;
+}
+.iconik-3 p {
+    position: relative;
+    bottom: 8px;
+}
+.iconik-3 {
+    display: flex;
+    position: relative;
+    bottom: 226px;
+    left: 42px;
+    width: 25px;
+    height: 25px;
+}
+.iconik-1 {
+    display: flex;
+    position: relative;
+    bottom: 228px;
+    left: 42px;
+    width: 25px;
+    height: 25px;
+}
+.podrobnosti {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: baseline;
+    position: relative;
+    right: 336px;
+    top: -19px;
+}
+.info {
+    font-size: 22px;
+    font-weight: bold;
+    color: rgba(37, 50, 56, 1);
+}
+.info-2 {
+    font-size: 15px;
+    width: 102%;
+}
+.podrobnosti h3 {
+    font-size: 31px;
+    color: rgba(37, 50, 56, 1);
+    font-weight: bold;
+    position: relative;
+   
+}
+.iconksi {
+    position: relative;
+    top: 31%;
+    right: 83px;
 }
