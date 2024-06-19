@@ -256,7 +256,7 @@ header .title a {
 .photoislovoo {
     font-size: 22px;
     position: relative;
-    top: -6px;
+    top: 6px;
     display: flex;
     right: -10px;
 }
@@ -298,4 +298,74 @@ header .title a {
 .ikonkiinstrumentov img {
     width: 49px;
     height: 51px;
+}
+.point img {
+    width: 2893%;
+    padding: 17px;
+    position: relative;
+    bottom: 75px;
+    top: 147px;
+    right: 243px;
+}
+.opisanieschool {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: -18px;
+    width: 345px;
+}
+.aboutschool {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 19px;
+    position: relative;
+    top: -307px;
+    gap: 11px;
+}
+.arsenaltochkiiiii {
+    display: flex;
+    flex-direction: column;
+    width: 17px;
+    height: 17px;
+    gap: 57px;
+}
+.knopka {
+    color: rgba(37, 50, 56, 1);
+    user-select: none;
+    position: relative;
+    right: 362px;
+    top: 141px;
+}
+.knopka a {
+    background-color: rgba(248, 212, 248, 1);
+    padding: 0px 209px;
+    position: relative;
+    right: -172px;
+    top: 861px;
+    font-weight: lighter;
+}
+.sovo {
+    display: flex;
+    gap: 15px;
+    position: relative;
+    right: -291px;
+    top: 803px;
+}
+.instrumentsoo {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: -4px;
+    right: -12px;
+}
+.photoiconkaa {
+    position: relative;
+    top: 26px;
+    display: flex;
+    height: 19px;
+    width: 19px;
+}
+.portfolioo h2 {
+    width: 227%;
+    font-size: 34px;
 }
