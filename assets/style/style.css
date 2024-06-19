@@ -460,14 +460,217 @@ form {
     display: flex;
     padding: 1px;
 }
+footer .footerslova {
+    background-image: url(../img/Group\ 30.png);
+    background-repeat: no-repeat;
+    height: 100px;
+    background-size: cover;
+    width: 1200px;
+}
 @media (max-width: 1200px) {
     .container{
+        width: 950px;
+    }
+    .links {
+        display: flex;
+        justify-content: space-around;
+        padding: 29px;
+        font-size: 14px;
+        width: 300%;
+        letter-spacing: 3px;
+        position: relative;
+        right: 56px;
+    }
+    .container .title h1 {
+        font-size: 98px;
+        display: flex;
+        position: relative;
+        top: 197px;
+        letter-spacing: -5px;
+        width: 967px;
+        right: 360px;
+    }
+    .container .title h2 {
+        font-size: 46px;
+        display: flex;
+        position: relative;
+        top: 104px;
+        letter-spacing: 33px;
+        right: 351px;
+        color: rgba(81, 94, 102, 1);
+        width: 1000px;
+    }
+    header .title a {
+        color: rgba(37, 50, 56, 1);
+        text-decoration: none;
+        user-select: none;
+        background: rgba(249, 206, 249, 1);
+        padding: 0.9em 5.5em;
+        outline: none;
+        position: absolute;
+        left: 270px;
+        bottom: 53px;
+        font-size: 18px;
+        letter-spacing: 7px;
+        display: flex;
+        justify-content: space-around;
+    }
+    .podrobnosti {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: baseline;
+        position: relative;
+        right: -101px;
+        top: -15px;
+    }
+    .phopto {
+        opacity: 0;
+    }
+    .iconksi {
+        position: relative;
+        top: 66%;
+        right: -72px;
+    }
+    .linia img {
+        width: 742px;
+        height: 381px;
+        position: relative;
+        right: -205px;
+        top: -124px;
+        opacity: 0;
+    }
+    .abotput {
+        display: flex;
+        width: 261px;
+        bottom: 145px;
+        position: relative;
+        right: -113px;
+    }
+    .abotput-2 {
+        display: flex;
+        width: 355px;
+        bottom: 429px;
+        position: relative;
+        right: -386px;
+    }
+    .abotput-3 {
+        display: flex;
+        width: 261px;
+        bottom: 720px;
+        position: relative;
+        left: 691px;
+    }
+    .instruments {
+        display: flex;
+        justify-content: flex-end;
+        position: relative;
+        right: 253px;
+        bottom: -237px;
+    }
+    .arsenal {
+        font-weight: bold;
+        font-size: 26px;
+        position: relative;
+        bottom: -168px;
+        right: 272%;
+        width: 205%;
+    }
+    .zagolovoook {
+        font-weight: bold;
+        font-size: 36px;
+        position: relative;
+        top: -89px;
+        
+        right: -258px;
+    }
+    .point img {
+        width: 2893%;
+        padding: 13px;
+        position: relative;
+        bottom: 75px;
+        top: 212px;
+        right: 314px;
+    }
+    .portfolioo h2 {
+        width: 227%;
+        font-size: 23px;
+        position: relative;
+        top: 40px;
+    }
+    .sovo {
+        display: flex;
+        gap: 15px;
+        position: relative;
+        right: -84px;
+        top: 803px;
+    }
+    .knopka {
+        color: rgba(37, 50, 56, 1);
+        user-select: none;
+        position: relative;
+        right: 748px;
+        top: 141px;
+    }
+    .obratnsvazzzz {
+        display: flex;
+        width: 950px;
+        justify-content: center;
+        position: relative;
+        top: -51px;
+        right: 145px;
+    }
+    .formmm {
+        background-color: #fff;
+        padding: 30px;
+        border-radius: 5px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        width: 401px;
+        display: flex;
+        position: relative;
+        right: 111%;
+        bottom: -186px;
+        height: 500px;
+    }
+    .footerslovap {
+        display: flex;
+        justify-content: space-around;
+        padding: 29px;
+        font-size: 11px;
+        width: 951px;
+        letter-spacing: 2px;
+        gap: 38px;
+    }
+    .footerslova .container{
+        height: 100px;
+        width: 950px;
+        margin: 0 auto;
+       
+        display: flex;
+        padding: 1px;
+    }
+    footer .footerslova {
+        background-image: url(../img/Group\ 30.png);
+        background-repeat: no-repeat;
+        height: 100px;
+        background-size: cover;
         width: 950px;
     }
 }
 @media (max-width: 992px) {
     .container{
         width: 720px;
+    }
+    .links {
+        display: flex;
+        justify-content: space-around;
+        padding: 29px;
+        font-size: 19px;
+        width: 300%;
+        letter-spacing: 3px;
+        position: relative;
+        right: 56px;
+        flex-direction: column;
     }
 }
 @media (max-width: 768px) {
