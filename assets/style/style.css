@@ -882,6 +882,172 @@ footer .footerslova {
     .container{
         width:  540px;
     }
+    .links {
+        display: flex;
+        justify-content: space-around;
+        padding: 29px;
+        font-size: 19px;
+        width: 300%;
+        letter-spacing: 3px;
+        position: relative;
+        right: -11px;
+        flex-direction: column;
+    }
+    .container .title h1 {
+        font-size: 62px;
+        display: flex;
+        position: relative;
+        top: 276px;
+        letter-spacing: -5px;
+        width: 967px;
+        right: 134px;
+    }
+    .container .title h2 {
+        font-size: 35px;
+        display: flex;
+        position: relative;
+        top: 226px;
+        letter-spacing: 16px;
+        right: 138px;
+        color: rgba(81, 94, 102, 1);
+        width: 1000px;
+    }
+    .section-title-template {
+        background-image: url(../img/фон\ второго\ блока\ 1.png);
+        background-repeat: no-repeat;
+        height: 1170px;
+        background-size: cover;
+    }
+    .iconksi {
+        position: relative;
+        top: 100%;
+        right: -300px;
+    }
+    .iconik {
+        display: flex;
+        position: relative;
+        bottom: 256px;
+        left: -464px;
+        width: 25px;
+        height: 25px;
+        top: -94px;
+    }
+    .footerslovap {
+        display: flex;
+        justify-content: space-around;
+        padding: 29px;
+        font-size: 8px;
+        width: 540px;
+        letter-spacing: 2px;
+        gap: 38px;
+    }
+    footer .footerslova {
+        background-image: url(../img/Group\ 30.png);
+        background-repeat: no-repeat;
+        height: 100px;
+        background-size: cover;
+        width: 540px;
+    }
+    .abotput-2 {
+        display: flex;
+        width: 355px;
+        bottom: 429px;
+        position: relative;
+        right: -181px;
+    }
+    .abotput-3 {
+        display: flex;
+        width: 261px;
+        bottom: 720px;
+        position: relative;
+        left: 287px;
+    }
+    .arsenal {
+        font-weight: bold;
+        font-size: 30px;
+        position: relative;
+        bottom: -168px;
+        right: 189%;
+        width: 393%;
+    }
+    .opisanieschool {
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        top: -7px;
+        width: 195px;
+        font-size: 13px;
+    }
+    main .obratnsvaz {
+        background-image: url(../img/Group\ 29.png);
+        background-repeat: no-repeat;
+        height: 800px;
+        background-size: cover;
+        width: 540px;
+    }
+    .obratnsvazzzz {
+        display: flex;
+        width: 720px;
+        justify-content: center;
+        position: relative;
+        top: -51px;
+        right: 126px;
+    }
+    .arseic {
+        margin-top: 102px;
+        display: flex;
+        gap: 35px;
+        flex-direction: column;
+        right: 381px;
+        position: relative;
+        top: 279px;
+    }
+    main .section-stas {
+        background-image: url(../img/Group\ 28.png);
+        background-repeat: no-repeat;
+        height: 917px;
+        background-size: cover;
+    }
+    .instruments {
+        display: flex;
+        justify-content: flex-end;
+        position: relative;
+        right: 787px;
+        bottom: -564px;
+    }
+    .iconik-3 {
+        display: flex;
+        position: relative;
+        bottom: 226px;
+        left: -465px;
+        width: 25px;
+        height: 25px;
+        top: -119px;
+    }
+    .podrobnosti {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: baseline;
+        position: relative;
+        right: 337px;
+        top: 463px;
+    }
+    header .title a {
+        color: rgba(37, 50, 56, 1);
+        text-decoration: none;
+        user-select: none;
+        background: rgba(249, 206, 249, 1);
+        padding: 0.9em 5.5em;
+        outline: none;
+        position: absolute;
+        left: 98px;
+        bottom: 53px;
+        font-size: 14px;
+        letter-spacing: 7px;
+        display: flex;
+        justify-content: space-around;
+    }
 }
 @media (max-width: 576px) {
     .container{
