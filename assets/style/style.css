@@ -50,3 +50,10 @@ main .section-stats{
      height: 800px;
      background-size: cover;
  }
+ main .obratnsvaz{
+    background-image: url(../img/Group\ 29.png);
+     background-repeat: no-repeat;
+     height: 800px;
+     background-size: cover;
+     
+ }
