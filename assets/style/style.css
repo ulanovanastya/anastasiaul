@@ -17,6 +17,7 @@ h1, h2, h3, h4, h5, h6{
     margin: 0 auto;
     height: 860px;
     display: flex;
+    padding: 1px;
 }
 .section-title-tee{
     background-image: url(../img/ПЕРВЫЙБЛОК.png);
@@ -64,3 +65,46 @@ main .section-stats{
      background-size: cover;
      
  }
+ header a{
+    color: rgb(37, 50, 56);
+}
+.links {
+    display: flex;
+    justify-content: space-around;
+    padding: 43px;
+    font-size: 20px;
+    width: 300%;
+    letter-spacing: 3px;
+}
+.container .title h1 {
+    font-size: 117px;
+    display: flex;
+    position: relative;
+    top: 197px;
+    letter-spacing: -5px;
+    width: 967px;
+    right: 360px;
+}
+.container .title h2 {
+    font-size: 66px;
+    display: flex;
+    position: relative;
+    top: 77px;
+    letter-spacing: 33px;
+    right: 351px;
+    color: rgba(81, 94, 102, 1);
+    width: 1000px;
+}
+header .title a {
+    color: rgba(37, 50, 56, 1);
+    text-decoration: none;
+    user-select: none;
+    background: rgba(249, 206, 249, 1);
+    padding: 0.9em 5.5em;
+    outline: none;
+    position: absolute;
+    left: 70px;
+    bottom: -5px;
+    font-size: 18px;
+    letter-spacing: 7px;
+}
