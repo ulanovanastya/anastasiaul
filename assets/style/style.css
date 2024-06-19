@@ -30,3 +30,10 @@ h1, h2, h3, h4, h5, h6{
     background-size: cover;
     
 }
+main .section-stats{
+    background-image: url(../img/Group\ 25.png);
+     background-repeat: no-repeat;
+     height: 800px;
+     background-size: cover;
+     
+ }
