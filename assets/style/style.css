@@ -23,3 +23,10 @@ h1, h2, h3, h4, h5, h6{
     background-repeat: no-repeat;
     background-size: cover;
 }
+.section-title-template{
+    background-image: url(../img/фон\ второго\ блока\ 1.png);
+    background-repeat: no-repeat;
+    height: 800px;
+    background-size: cover;
+    
+}
