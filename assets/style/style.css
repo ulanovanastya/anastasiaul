@@ -18,6 +18,7 @@ h1, h2, h3, h4, h5, h6{
     height: 860px;
     display: flex;
     padding: 1px;
+   
 }
 .section-title-tee{
     background-image: url(../img/ПЕРВЫЙБЛОК.png);
@@ -458,4 +459,29 @@ form {
    
     display: flex;
     padding: 1px;
+}
+@media (max-width: 1200px) {
+    .container{
+        width: 950px;
+    }
+}
+@media (max-width: 992px) {
+    .container{
+        width: 720px;
+    }
+}
+@media (max-width: 768px) {
+    .container{
+        width:  540px;
+    }
+}
+@media (max-width: 576px) {
+    .container{
+        width:  98%;
+    }
+}
+@media (max-width: 480px) {
+    .container{
+        width:  98%;
+    }
 }
