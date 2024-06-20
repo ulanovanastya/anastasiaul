@@ -254,6 +254,7 @@ header .title a {
     right: 465px;
     position: relative;
     top: 263px;
+    color: rgba(37, 50, 56, 1);
 }
 .photoislovoo {
     font-size: 22px;
@@ -315,6 +316,7 @@ header .title a {
     position: relative;
     top: -18px;
     width: 345px;
+    color: rgba(37, 50, 56, 1);
 }
 .aboutschool {
     display: flex;
@@ -359,6 +361,7 @@ header .title a {
     position: relative;
     top: -4px;
     right: -12px;
+    color: rgba(37, 50, 56, 1);
 }
 .photoiconkaa {
     position: relative;
@@ -576,14 +579,16 @@ footer .footerslova {
         bottom: -168px;
         right: 272%;
         width: 205%;
+        color: rgba(37, 50, 56, 1);
     }
-    .zagolovoook {
+
+.zagolovoook {
         font-weight: bold;
         font-size: 36px;
         position: relative;
         top: -89px;
-        
         right: -258px;
+        color: rgba(37, 50, 56, 1);
     }
     .point img {
         width: 2893%;
@@ -593,11 +598,12 @@ footer .footerslova {
         top: 212px;
         right: 314px;
     }
-    .portfolioo h2 {
+.portfolioo h2 {
         width: 227%;
         font-size: 23px;
         position: relative;
         top: 40px;
+        color: rgba(37, 50, 56, 1);
     }
     .sovo {
         display: flex;
@@ -621,18 +627,19 @@ footer .footerslova {
         top: -51px;
         right: 145px;
     }
-    .formmm {
+.formmm {
         background-color: #fff;
         padding: 30px;
         border-radius: 5px;
         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-        width: 401px;
+        width: 1200px;
         display: flex;
         position: relative;
-        right: 111%;
+        right: 83%;
         bottom: -186px;
         height: 500px;
     }
+}
     .footerslovap {
         display: flex;
         justify-content: space-around;
